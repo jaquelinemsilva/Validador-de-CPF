@@ -39,16 +39,21 @@ A digitação dos estados precisa ter pontuação e é case-insensitive, pois na
 
 ## Como executar:
 
-## Como executar
-
-1. Clone o repositório:
+- Clone o repositório:
    ```bash
    git clone https://github.com/jaquelinemsilva/Validador-de-CPF.git
 
+- Compile e execute no terminal:
+  ```bash
+  javac Main.java
+  java Main
 
 # Autora:
 
 Jaqueline Maria
 
 - LinkedIn: https://www.linkedin.com/in/jaquelinemariadev/
-- GitHub: https://github.com/jaquelinemsilva/Validador-de-CPF
+
+- GitHub: https://github.com/jaquelinemsilva
+
+
