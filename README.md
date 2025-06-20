@@ -37,6 +37,15 @@ A digitação dos estados precisa ter pontuação e é case-insensitive, pois na
 - Java 21+
 - Paradigma Orientado a Objetos (POO).
 
+## Como executar:
+
+## Como executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/jaquelinemsilva/Validador-de-CPF.git
+
+
 # Autora:
 
 Jaqueline Maria
