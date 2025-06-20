@@ -4,7 +4,7 @@ Projeto simples em Java que valida a estrutura de um CPF e a correspondência en
 
 ## Funcionalidades:
 
-- Validar se o CPF digitado possui 11 dígitos numéricos válidos.
+- Valida se o CPF digitado possui 11 dígitos numéricos válidos.
 - Valida se o CPF digitado corresponde ao estado informado através do 9º dígito do CPF (região fiscal).
 - Lança exceções personalizadas em caso de dados inválidos.
 
@@ -50,7 +50,7 @@ A digitação dos estados precisa ter pontuação e é case-insensitive, pois na
 
 # Autora:
 
-Jaqueline Maria
+Jaqueline Maria da Silva
 
 - LinkedIn: https://www.linkedin.com/in/jaquelinemariadev/
 
