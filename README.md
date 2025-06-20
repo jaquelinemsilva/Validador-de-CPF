@@ -42,4 +42,4 @@ A digitação dos estados precisa ter pontuação e é case-insensitive, pois na
 Jaqueline Maria
 
 - LinkedIn: https://www.linkedin.com/in/jaquelinemariadev/
-- GitHub: 
+- GitHub: https://github.com/jaquelinemsilva/Validador-de-CPF
